@@ -1,0 +1,19 @@
+div{
+    color: skyblue;
+}
+#div4{
+    color: red;
+}
+
+.div2{
+    border: 1px solid black;
+}
+
+div {
+    color: green;
+}
+
+*{
+    background-color: gray;
+    margin: 50px;
+}

@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+}
+
+
+#div1{
+     border: 40px;
+     border-color: red;}
+
+
+
+     .parent{
+        background-color: yellow;
+     }
+     .child{
+        border: 10px solid blueviolet;
+     }
+
+
+     .parent .child{
+        color: red;
+     }
+
+     .parent> .child{
+        color: green;
+     } 
